@@ -53,4 +53,4 @@
 
 
 ## 使用示例 / Usage Example
-![](assets/week01_llm_show_output.png)
+![example](assets/week01_llm_show_output.png)
